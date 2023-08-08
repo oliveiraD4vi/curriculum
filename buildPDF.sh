@@ -12,7 +12,7 @@ for h in *.md
     do
 
     echo " > Processando currículo $(basename $h .md)..."
-    pandoc $h -o $(basename $h .md).pdf
+    pandoc $h -o ./resumes/$(basename $h .md).pdf
 
 done
 
