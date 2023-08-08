@@ -17,8 +17,8 @@ Fortaleza - CE, Brazil
 
 </div>
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 ## Profile
 
@@ -32,8 +32,8 @@ My experiences primarily focus on frontend, but I also work on backend projects 
 
 Check out my projects on [**GitHub**](https://github.com/oliveiraD4vi) or connect with me on [**LinkedIn**](www.linkedin.com/in/davi-oliveira-bb7458187).
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 ## Professional Experience
 
@@ -49,8 +49,8 @@ Check out my projects on [**GitHub**](https://github.com/oliveiraD4vi) or connec
 
 **Skills: React · HTML · SCSS (Sass) · Ant Design · Rest API · Scrum Methodology**
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 ## Projects and Technologies
 
@@ -108,8 +108,8 @@ Click on the name of each project to access its respective GitHub repository.
   - [**Vehicle Rental System App**](https://github.com/oliveiraD4vi/vehicle-rental-system-kotlin) | **2023**
     - Native Android app for using the `vehicle rental system` for a fictional rental agency in Quixadá.
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 ## Skills
 
@@ -124,8 +124,8 @@ Click on the name of each project to access its respective GitHub repository.
 * PostgreSQL;
 * Prisma.
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 ## Education
 
@@ -141,8 +141,8 @@ Click on the name of each project to access its respective GitHub repository.
   
   - Technical education in Computer Networks with skills in network administration, structured cabling, and computer maintenance.
   
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 #### Languages
 
@@ -150,8 +150,8 @@ Click on the name of each project to access its respective GitHub repository.
 * **Spanish** - `Beginner`
 * **Portuguese** (Brazilian) - `Native`
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 #### Portfolio and Contact (click to access)
 
@@ -160,8 +160,8 @@ Click on the name of each project to access its respective GitHub repository.
 * [**Online Resume**]()
 * [**Lattes Curriculum**](http://lattes.cnpq.br/0206111428771914)
 
-<!-- $\hrulefill$ -->
-<hr>
+$\hrulefill$
+<!-- <hr> -->
 
 This resume was created entirely in Markdown based on the example available at [CV Example](https://github.com/felipenlunkes/cv-exemplo).
 
