@@ -24,9 +24,9 @@ Veja meus projetos em meu [**GitHub**](https://github.com/oliveiraD4vi) ou me ac
 
 ### Dez 2022 - Atual | Estagiário de Desenvolvimento Fullstack na Elevar Commerce
 
-- Desenvolver e manter aplicações web de um Ecommerce, tanto frontend quanto backend, bem como integrações e outras funcionalidades inerentes deste tipo de produto;
+- Desenvolver e manter aplicações web e mobile de um Ecommerce, tanto frontend quanto backend, bem como integrações e outras funcionalidades inerentes deste tipo de produto;
 
-**Competências: Angular · AngularJS · Angular Universal · Vue · Nuxt · Node · Java · Firebase · SCSS (Sass) · SQL · Rest API · Metodologia Scrum**
+**Competências: Angular · AngularJS · Angular Universal · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Metodologia Scrum**
 
 ### Jul 2021 - Nov 2022 | Bolsista de Desenvolvimento Frontend no GREat - Grupo de Redes de Computadores, Engenharia de Software e Sistemas da UFC pela FUNCAP
 
