@@ -20,7 +20,7 @@ Tauá - CE, Brazil
 
 Software developer focused on frontend and Angular. I work as a **Frontend Developer at Shuffle Up** and maintain **Inhamuns Crono**, a sports timing platform I created that is in production in Ceará, Brazil.
 
-I have been building for the web since 2021, with experience in frontend (Angular, React and Vue), backend (Node, NestJS and Java) and integrations. I am an undergraduate student in Information Systems at the Federal University of Ceará - _Campus_ Quixadá.
+I have been building for the web since 2021, with experience in frontend (Angular, React and Vue), backend (Node, NestJS and Java) and integrations. I hold a bachelor's degree in Information Systems from the Federal University of Ceará - _Campus_ Quixadá.
 
 See my [**portfolio**](https://coaladev.com.br), my projects on [**GitHub**](https://github.com/oliveiraD4vi) or connect with me on [**LinkedIn**](https://linkedin.com/in/davi-oliveira-bb7458187).
 
@@ -120,7 +120,7 @@ Remote (Fortaleza - CE). Promoted to developer after the internship.
 
 ## Education
 
-#### **2022 - Present** | **Bachelor of Information Systems - [UFC _campus_ Quixadá - CE](https://www.quixada.ufc.br/), Brazil**
+#### **2022 - 2026** | **Bachelor of Information Systems - [UFC _campus_ Quixadá - CE](https://www.quixada.ufc.br/), Brazil**
 
   - Bachelor's degree in Information Systems with competencies in information system and web development.
 

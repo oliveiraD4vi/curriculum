@@ -12,7 +12,7 @@ Tauá - CE, Brasil
 
 Desenvolvedor de software com foco em frontend e Angular. Atuo como **Frontend Developer na Shuffle Up** e mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
 
-Trabalho com desenvolvimento web desde 2021, com experiência em frontend (Angular, React e Vue), backend (Node, NestJS e Java) e integrações. Sou graduando em Sistemas de Informação na Universidade Federal do Ceará - _Campus_ Quixadá.
+Trabalho com desenvolvimento web desde 2021, com experiência em frontend (Angular, React e Vue), backend (Node, NestJS e Java) e integrações. Sou bacharel em Sistemas de Informação pela Universidade Federal do Ceará - _Campus_ Quixadá.
 
 Veja meu [**portfólio**](https://coaladev.com.br), meus projetos no [**GitHub**](https://github.com/oliveiraD4vi) ou me acompanhe no [**LinkedIn**](https://linkedin.com/in/davi-oliveira-bb7458187).
 
@@ -112,7 +112,7 @@ Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
 
 ## Formação acadêmica
 
-#### **2022 - Atual** | **Bacharel em Sistemas de Informação - [UFC _campus_ Quixadá - CE](https://www.quixada.ufc.br/), Brasil**
+#### **2022 - 2026** | **Bacharel em Sistemas de Informação - [UFC _campus_ Quixadá - CE](https://www.quixada.ufc.br/), Brasil**
 
   - Bacharelado em Sistemas de Informação com competências voltadas para o desenvolvimento de sistemas de informação e sistemas web.
 
