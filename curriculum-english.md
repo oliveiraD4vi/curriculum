@@ -43,7 +43,7 @@ Own product, in production in Tauá - CE and nearby cities.
 - Design, build and operate a platform for registration, payment, RFID chip timing and live results for road running and MTB races;
 - Maintain the web application, the API, the bridge to the RFID readers and the desktop console used on race day.
 
-**Skills: Angular · NestJS · PostgreSQL · Prisma · Java · Tauri · Socket.IO · Mercado Pago**
+**Skills: Angular · NestJS · PostgreSQL · Prisma · Java · Socket.IO · Mercado Pago**
 
 ### Sep 2023 - Dec 2024 | Fullstack Developer at Elevar Commerce
 

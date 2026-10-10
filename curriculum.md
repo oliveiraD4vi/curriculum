@@ -43,7 +43,7 @@ Produto próprio, em produção em Tauá - CE e região.
 - Conceber, desenvolver e operar uma plataforma de inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB;
 - Manter a aplicação web, a API, a ponte com os leitores RFID e o console desktop usado no dia da prova.
 
-**Competências: Angular · NestJS · PostgreSQL · Prisma · Java · Tauri · Socket.IO · Mercado Pago**
+**Competências: Angular · NestJS · PostgreSQL · Prisma · Java · Socket.IO · Mercado Pago**
 
 ### Set 2023 - Dez 2024 | Fullstack Developer na Elevar Commerce
 
