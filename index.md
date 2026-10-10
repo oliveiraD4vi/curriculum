@@ -4,7 +4,7 @@
 
 Telefone: (88) 99766-0734
 
-Quixadá - CE, Brasil
+Tauá - CE, Brasil
 
 ---
 

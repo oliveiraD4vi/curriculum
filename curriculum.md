@@ -12,7 +12,7 @@ geometry: "left=2cm,right=3cm,top=3cm,bottom=2cm"
 
 Telefone: (88) 99766-0734
 
-Quixadá - CE, Brasil
+Tauá - CE, Brasil
 
 ---
 
