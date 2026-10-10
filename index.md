@@ -4,121 +4,93 @@
 
 Telefone: (88) 99766-0734
 
-Fortaleza - CE, Brasil
+Quixadá - CE, Brasil
 
 ---
 
 ## Perfil
 
-Atuando como **estagiário de desenvolvimento fullstack** na Elevar Commerce.
+Desenvolvedor de software com foco em frontend e Angular. Atuo como **Frontend Developer na Shuffle Up** e mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
 
-Sou um graduando em Sistemas de Informação na Universidade Federal do Ceará - _Campus_ Quixadá e desenvolvedor web com experiência em React, Angular, Node e outras tecnologias de desenvolvimento.
+Trabalho com desenvolvimento web desde 2021, com experiência em frontend (Angular, React e Vue), backend (Node, NestJS e Java) e integrações. Sou graduando em Sistemas de Informação na Universidade Federal do Ceará - _Campus_ Quixadá.
 
-Minhas experiências se concentram majoritariamente com frontend, mas também atuo com backend em projetos Node e Java.
-
-Veja meus projetos em meu [**GitHub**](https://github.com/oliveiraD4vi) ou me acompanhe no [**LinkedIn**](https://linkedin.com/in/davi-oliveira-bb7458187).
+Veja meu [**portfólio**](https://coaladev.com.br), meus projetos no [**GitHub**](https://github.com/oliveiraD4vi) ou me acompanhe no [**LinkedIn**](https://linkedin.com/in/davi-oliveira-bb7458187).
 
 ---
 
 ## Experiência profissional
 
-### Dez 2022 - Atual | Estagiário de Desenvolvimento Fullstack na Elevar Commerce
+### Dez 2024 - Atual | Frontend Developer (L4) na Shuffle Up
 
-- Desenvolver e manter aplicações web e mobile de um Ecommerce, tanto frontend quanto backend, bem como integrações e outras funcionalidades inerentes deste tipo de produto;
+Tempo integral, remoto (Tallinn, Estônia).
+
+- Desenvolver aplicações web com Angular, HTML5, CSS3 e Angular Material.
+
+**Competências: Angular · TypeScript · Angular Material · HTML5 · CSS3**
+
+### 2025 - Atual | Criador e desenvolvedor do Inhamuns Crono
+
+Produto próprio, em produção em Tauá - CE e região.
+
+- Conceber, desenvolver e operar uma plataforma de inscrição, pagamento, cronometragem por chip RFID e resultado ao vivo para corrida de rua e MTB;
+- Manter a aplicação web, a API, a ponte com os leitores RFID e o console desktop usado no dia da prova.
+
+**Competências: Angular · NestJS · PostgreSQL · Prisma · Java · Tauri · Socket.IO · Mercado Pago**
+
+### Set 2023 - Dez 2024 | Fullstack Developer na Elevar Commerce
+
+### Dez 2022 - Ago 2023 | Estagiário de Desenvolvimento Fullstack na Elevar Commerce
+
+Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
+
+- Desenvolver e manter aplicações web e mobile de e-commerce, tanto frontend quanto backend, bem como integrações e outras funcionalidades inerentes deste tipo de produto.
 
 **Competências: Angular · AngularJS · Angular Universal · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Metodologia Scrum**
 
-### Jul 2021 - Nov 2022 | Bolsista de Desenvolvimento Frontend no GREat - Grupo de Redes de Computadores, Engenharia de Software e Sistemas da UFC pela FUNCAP
+### Jul 2021 - Nov 2022 | Bolsista de Inovação Tecnológica em Frontend no GREat - Grupo de Redes de Computadores, Engenharia de Software e Sistemas da UFC pela FUNCAP
 
-- Desenvolver e manter aplicações web voltadas para o gerenciamento e controle de pedidos e processos para o Governo do Estado do Ceará;
+- Desenvolver e manter aplicações web voltadas para o gerenciamento e controle de pedidos e processos para o Governo do Estado do Ceará.
 
 **Competências: React · HTML · SCSS (Sass) · Ant Design · Rest API · Metodologia Scrum**
 
 ---
 
-## Projetos e tecnologias
+## Projetos
 
-Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
-
-* HTML e CSS:
-  - [**Star Wars Dashboard**](https://github.com/oliveiraD4vi/star-wars-dashboard) | **2021**
-    - Aplicação web de exemplo que mostra algumas informações sobre a franquia `Star Wars`.
+* Em destaque:
+  - [**Inhamuns Crono**](https://inhamunscrono.com.br) | **2025 - Atual**
+    - Plataforma de `cronometragem esportiva` com inscrições, pagamento pelo Mercado Pago, leitura RFID em tempo real e classificação ao vivo.
 
   &nbsp;
 
-* React:
-  - [**User Management Site**](https://github.com/oliveiraD4vi/user-management-app) | **2022**
-    - Projeto simples para uma interface de `gerenciamento de usuários`.
+  - [**Guardião NBR 17225**](https://github.com/oliveiraD4vi/nbr-17225-guard) | **2026**
+    - Extensão de código aberto que audita a `acessibilidade` de páginas web segundo a ABNT NBR 17225:2025, publicada na Chrome Web Store. Trabalho de conclusão de curso.
 
   &nbsp;
 
-  - [**Click Project Site**](https://github.com/oliveiraD4vi/click-project) | **2022**
-    - Projeto para votação de `filmes` para exibição em uma escola e/ou instituição.
+* Outros projetos:
+  - [**GranCARS**](https://github.com/oliveiraD4vi/vehicle-rental-system-api) | **2022 - 2023**
+    - `Sistema de aluguel de veículos` com API em Node e clientes em [Vue](https://github.com/oliveiraD4vi/vehicle-rental-system-vue), [React](https://github.com/oliveiraD4vi/vehicle-rental-system-react) e [Kotlin](https://github.com/oliveiraD4vi/vehicle-rental-system-kotlin).
 
   &nbsp;
 
   - [**Country Quiz**](https://github.com/oliveiraD4vi/country-quiz) | **2022**
-    - `Quiz sobre países` com perguntas dinâmicas geradas a partir de uma API com informações sobre países, cidades, etc.
+    - `Quiz sobre países` com perguntas geradas a partir de dados reais de capitais e bandeiras.
+
+  &nbsp;
+
+  - [**Rick and Morty**](https://github.com/oliveiraD4vi/rick-morty) | **2021**
+    - `Catálogo de personagens` da série com busca por nome e painel de detalhes.
 
   &nbsp;
 
   - [**Jogo da velha**](https://github.com/oliveiraD4vi/tictactoe) | **2022**
-    - Simples `jogo da velha` para jogar com até 2 jogadores.
+    - `Jogo da velha` para dois jogadores.
 
   &nbsp;
 
-  - [**Vehicle Rental System Site**](https://github.com/oliveiraD4vi/vehicle-rental-system-react) | **2022**
-    - Página web para o uso do `sistema de aluguel de veículos` para uma locadora fictícia em Quixadá.
-
-  &nbsp;
-
-* Angular:
-  - [**MFE com Module Federation**](https://github.com/oliveiraD4vi/poc-angular-mfe) | **2023**
-    - Testando o conceito de `Micro Frontends` com aplicações Angular.
-
-  &nbsp;
-
-  - [**Trakto TV**](https://github.com/oliveiraD4vi/trakto-platform) | **2023**
-    - Aplicação feita com a `API da Trakto`.
-
-  &nbsp;
-
-  - [**Layout Dinâmico**](https://github.com/oliveiraD4vi/layout-dinamico-angular) | **2023**
-    - Aplicação testando o conceito de `layout dinâmico` com Angular.
-
-  &nbsp;
-
-* Vue:
   - [**Poké Search**](https://github.com/oliveiraD4vi/poke-search) | **2023**
-    - Aplicação para listar e buscar pokémons utilizando `Poké API`.
-
-  &nbsp;
-
-  - [**Vehicle Rental System Site**](https://github.com/oliveiraD4vi/vehicle-rental-system-vue) | **2022**
-    - Página web para o uso do `sistema de aluguel de veículos` para uma locadora fictícia em Quixadá.
-
-  &nbsp;
-
-* Node:
-  - [**Click Project API**](https://github.com/oliveiraD4vi/click-project-back) | **2022**
-    - Backend para o Click Project, um projeto para votação de `filmes` para exibição em uma escola e/ou instituição.
-
-  &nbsp;
-
-  - [**Vehicle Rental System API**](https://github.com/oliveiraD4vi/vehicle-rental-system-api) | **2022**
-    - Backend do `sistema de aluguel de veículos` para uma locadora fictícia em Quixadá.
-
-  &nbsp;
-
-* Java:
-  - [**User Management API**](https://github.com/oliveiraD4vi/user-management-api) | **2022**
-    - Backend para o projeto de uma interface de `gerenciamento de usuários`.
-
-  &nbsp;
-
-* Kotlin:
-  - [**Vehicle Rental System App**](https://github.com/oliveiraD4vi/vehicle-rental-system-kotlin) | **2023**
-    - Aplicativo android nativo para o uso do `sistema de aluguel de veículos` para uma locadora fictícia em Quixadá.
+    - Aplicação para listar e buscar pokémons utilizando a `PokéAPI`.
 
   &nbsp;
 
@@ -126,18 +98,15 @@ Clique no nome de cada projeto para acessar o respectivo repositório no GitHub.
 
 ## Habilidades
 
-- Angular;
-- Angular Universal;
-- Vue;
-- React;
-- Node;
+- Angular, RxJS e Angular Material;
+- TypeScript e JavaScript;
+- React e Vue;
+- Node e NestJS;
 - Java;
-- Typescript;
-- Scss (Sass);
-- Scrum;
-- Git;
-- PostgreSQL;
-- Prisma.
+- PostgreSQL e Prisma;
+- SCSS (Sass);
+- Docker e Git;
+- Metodologia Scrum.
 
 ---
 
@@ -167,6 +136,7 @@ Idiomas:
 
 Portfólio e contato (clique para acessar):
 
+- [**Portfólio**](https://coaladev.com.br)
 - [**GitHub**](https://github.com/oliveiraD4vi)
 - [**LinkedIn**](https://linkedin.com/in/davi-oliveira-bb7458187)
 - [**Currículo Lattes**](http://lattes.cnpq.br/0206111428771914)
