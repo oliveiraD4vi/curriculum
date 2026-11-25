@@ -10,15 +10,15 @@ geometry: "left=2cm,right=3cm,top=3cm,bottom=2cm"
 
 [davi.comp.oliveira@gmail.com](mailto:davi.comp.oliveira@gmail.com)
 
-Phone: (88) 99766-0734
+Phone: +55 (88) 98885-0112
 
-Tauá - CE, Brazil
+Brazil
 
 ---
 
 ## Profile
 
-Software developer focused on frontend and Angular. I work as a **Frontend Developer at Shuffle Up** and maintain **Inhamuns Crono**, a sports timing platform I created that is in production in Ceará, Brazil.
+Software developer focused on frontend and Angular. I maintain **Inhamuns Crono**, a sports timing platform I created that is in production in Ceará, Brazil. Until November 2026 I was a **Frontend Developer at Shuffle Up**, working with a team based in Estonia.
 
 I have been building for the web since 2021, with experience in frontend (Angular, React and Vue), backend (Node, NestJS and Java) and integrations. I hold a bachelor's degree in Information Systems from the Federal University of Ceará - _Campus_ Quixadá.
 
@@ -28,13 +28,18 @@ See my [**portfolio**](https://coaladev.com.br), my projects on [**GitHub**](htt
 
 ## Professional Experience
 
-### Dec 2024 - Present | Frontend Developer (L4) at Shuffle Up
+### Dec 2024 - Nov 2026 | Frontend Developer (L4) at Shuffle Up
 
-Full-time, remote (Tallinn, Estonia).
+Full-time, remote (Tallinn, Estonia). Multi-brand online gaming platform built through a CMS: every brand uses the same Angular components with its own styling.
 
-- Develop web applications using Angular, HTML5, CSS3 and Angular Material.
+- Worked on two teams: Payments, and Player Account & Registration;
+- Styled much of the shared component set from the design team's layouts, and took part in the design discussions, where several of my suggestions made it into the final designs;
+- Refactored and maintained the OTP verification used in login and registration;
+- Payments work: deposits, bank withdrawals and KYC verification, with a lot of edge cases and error states;
+- Back-office screens such as the KYC request list, fraud rule setup and system alerts;
+- Helped upgrade the monorepo from Angular 18 to 19 and set up frontend logging with Grafana Faro and Sentry.
 
-**Skills: Angular · TypeScript · Angular Material · HTML5 · CSS3**
+**Skills: Angular · TypeScript · RxJS · SCSS · Angular Material · Nx · Jest**
 
 ### 2025 - Present | Creator and developer of Inhamuns Crono
 
@@ -51,9 +56,10 @@ Own product, in production in Tauá - CE and nearby cities.
 
 Remote (Fortaleza - CE). Promoted to developer after the internship.
 
-- Develop and maintain web and mobile applications for e-commerce, both frontend and backend, including integrations and other features inherent to this type of product.
+- Built Angular storefronts with SSR, using NG-ZORRO, Angular Material, PrimeNG or Tailwind depending on the project, usually sketching the screens in Figma first;
+- Worked on the backend and integrations too, and led a project that brought customer service and orders from WhatsApp and Instagram into one chat.
 
-**Skills: Angular · AngularJS · Angular Universal · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Scrum Methodology**
+**Skills: Angular · AngularJS · Angular Universal · NG-ZORRO · Figma · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Scrum Methodology**
 
 ### Jul 2021 - Nov 2022 | Technological Innovation Scholar in Frontend Development at GREat - Computer Networks, Software Engineering, and Systems Group of UFC by FUNCAP
 
@@ -72,7 +78,7 @@ Remote (Fortaleza - CE). Promoted to developer after the internship.
   &nbsp;
 
   - [**Guardião NBR 17225**](https://github.com/oliveiraD4vi/nbr-17225-guard) | **2026**
-    - Open source extension that audits web `accessibility` against the Brazilian standard ABNT NBR 17225:2025, published on the Chrome Web Store. Undergraduate thesis project.
+    - Open source extension that audits web `accessibility` against ABNT NBR 17225:2025, Brazil's web accessibility standard, which is entirely based on WCAG 2.2. Published on the Chrome Web Store. Undergraduate thesis project, presented as a paper in the Evaluation Competition at IHC 2026, the Brazilian Symposium on Human Factors in Computing Systems.
 
   &nbsp;
 
@@ -106,13 +112,15 @@ Remote (Fortaleza - CE). Promoted to developer after the internship.
 
 ## Skills
 
-- Angular, RxJS and Angular Material;
+- Angular, RxJS, Angular Material and NG-ZORRO;
 - TypeScript and JavaScript;
 - React and Vue;
 - Node and NestJS;
 - Java;
 - PostgreSQL and Prisma;
-- SCSS (Sass);
+- SCSS (Sass), responsive layouts and theming;
+- Accessibility: WCAG 2.2, ABNT NBR 17225 and WAI-ARIA;
+- Figma;
 - Docker and Git;
 - Scrum Methodology.
 
@@ -136,7 +144,7 @@ Remote (Fortaleza - CE). Promoted to developer after the internship.
 
 Languages:
 
-- **English** - Advanced
+- **English** - Fluent
 - **Spanish** - Beginner
 - **Portuguese** (Brazilian) - Native
 

@@ -10,15 +10,15 @@ geometry: "left=2cm,right=3cm,top=3cm,bottom=2cm"
 
 [davi.comp.oliveira@gmail.com](mailto:davi.comp.oliveira@gmail.com)
 
-Telefone: (88) 99766-0734
+Telefone: +55 (88) 98885-0112
 
-Tauá - CE, Brasil
+Brasil
 
 ---
 
 ## Perfil
 
-Desenvolvedor de software com foco em frontend e Angular. Atuo como **Frontend Developer na Shuffle Up** e mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará.
+Desenvolvedor de software com foco em frontend e Angular. Mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Developer na Shuffle Up**, num time baseado na Estônia.
 
 Trabalho com desenvolvimento web desde 2021, com experiência em frontend (Angular, React e Vue), backend (Node, NestJS e Java) e integrações. Sou bacharel em Sistemas de Informação pela Universidade Federal do Ceará - _Campus_ Quixadá.
 
@@ -28,13 +28,18 @@ Veja meu [**portfólio**](https://coaladev.com.br), meus projetos no [**GitHub**
 
 ## Experiência profissional
 
-### Dez 2024 - Atual | Frontend Developer (L4) na Shuffle Up
+### Dez 2024 - Nov 2026 | Frontend Developer (L4) na Shuffle Up
 
-Tempo integral, remoto (Tallinn, Estônia).
+Tempo integral, remoto (Tallinn, Estônia). Plataforma de jogos online multimarca montada por CMS: cada marca usa os mesmos componentes Angular com estilo próprio.
 
-- Desenvolver aplicações web com Angular, HTML5, CSS3 e Angular Material.
+- Atuei em dois times: Pagamentos, e Conta do Jogador e Cadastro;
+- Estilizei boa parte dos componentes compartilhados a partir dos layouts do time de design e participei das discussões com eles, com várias sugestões minhas entrando nos layouts finais;
+- Refatorei e mantive a verificação por OTP usada no login e no cadastro;
+- Em Pagamentos: depósitos, saques bancários e verificação KYC, com muitos casos de borda e estados de erro;
+- Telas de backoffice como a lista de solicitações de KYC, a configuração de regras antifraude e os alertas do sistema;
+- Ajudei na atualização do monorepo do Angular 18 para o 19 e configurei o log de frontend com Grafana Faro e Sentry.
 
-**Competências: Angular · TypeScript · Angular Material · HTML5 · CSS3**
+**Competências: Angular · TypeScript · RxJS · SCSS · Angular Material · Nx · Jest**
 
 ### 2025 - Atual | Criador e desenvolvedor do Inhamuns Crono
 
@@ -51,9 +56,10 @@ Produto próprio, em produção em Tauá - CE e região.
 
 Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
 
-- Desenvolver e manter aplicações web e mobile de e-commerce, tanto frontend quanto backend, bem como integrações e outras funcionalidades inerentes deste tipo de produto.
+- Desenvolvi lojas virtuais em Angular com SSR, usando NG-ZORRO, Angular Material, PrimeNG ou Tailwind conforme o projeto, normalmente desenhando as telas antes no Figma;
+- Também trabalhei no backend e em integrações, e liderei um projeto que juntou atendimento e pedidos do WhatsApp e do Instagram num só chat.
 
-**Competências: Angular · AngularJS · Angular Universal · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Metodologia Scrum**
+**Competências: Angular · AngularJS · Angular Universal · NG-ZORRO · Figma · Vue · Nuxt · Node · Java · Firebase · Ionic · SCSS (Sass) · SQL · Rest API · Metodologia Scrum**
 
 ### Jul 2021 - Nov 2022 | Bolsista de Inovação Tecnológica em Frontend no GREat - Grupo de Redes de Computadores, Engenharia de Software e Sistemas da UFC pela FUNCAP
 
@@ -72,7 +78,7 @@ Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
   &nbsp;
 
   - [**Guardião NBR 17225**](https://github.com/oliveiraD4vi/nbr-17225-guard) | **2026**
-    - Extensão de código aberto que audita a `acessibilidade` de páginas web segundo a ABNT NBR 17225:2025, publicada na Chrome Web Store. Trabalho de conclusão de curso.
+    - Extensão de código aberto que audita a `acessibilidade` de páginas web segundo a ABNT NBR 17225:2025, norma brasileira de acessibilidade web inteiramente baseada na WCAG 2.2. Publicada na Chrome Web Store. Trabalho de conclusão de curso, apresentado como artigo na Competição de Avaliação do IHC 2026, o Simpósio Brasileiro sobre Fatores Humanos em Sistemas Computacionais.
 
   &nbsp;
 
@@ -106,13 +112,15 @@ Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
 
 ## Habilidades
 
-- Angular, RxJS e Angular Material;
+- Angular, RxJS, Angular Material e NG-ZORRO;
 - TypeScript e JavaScript;
 - React e Vue;
 - Node e NestJS;
 - Java;
 - PostgreSQL e Prisma;
-- SCSS (Sass);
+- SCSS (Sass), layouts responsivos e temas;
+- Acessibilidade: WCAG 2.2, ABNT NBR 17225 e WAI-ARIA;
+- Figma;
 - Docker e Git;
 - Metodologia Scrum.
 
@@ -136,7 +144,7 @@ Remoto (Fortaleza - CE). Promovido a desenvolvedor após o estágio.
 
 Idiomas:
 
-- **Inglês** - Avançado
+- **Inglês** - Fluente
 - **Espanhol** - Iniciante
 - **Português** (Brasileiro) - Nativo
 
