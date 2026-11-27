@@ -18,7 +18,7 @@ Brazil
 
 ## Profile
 
-Software developer focused on frontend and Angular. I maintain **Inhamuns Crono**, a sports timing platform I created that is in production in Ceará, Brazil. Until November 2026 I was a **Frontend Developer at Shuffle Up**, working with a team based in Estonia.
+Software developer focused on frontend and Angular. I maintain **Inhamuns Crono**, a sports timing platform I created that is in production in Ceará, Brazil. Until November 2026 I was a **Frontend Engineer at Shuffle Up**, working with a team based in Estonia.
 
 I have been building for the web since 2021, with experience in frontend (Angular, React and Vue), backend (Node, NestJS and Java) and integrations. I hold a bachelor's degree in Information Systems from the Federal University of Ceará - _Campus_ Quixadá.
 
@@ -28,7 +28,7 @@ See my [**portfolio**](https://coaladev.com.br), my projects on [**GitHub**](htt
 
 ## Professional Experience
 
-### Dec 2024 - Nov 2026 | Frontend Developer (L4) at Shuffle Up
+### Dec 2024 - Nov 2026 | Frontend Engineer (L4) at Shuffle Up
 
 Full-time, remote (Tallinn, Estonia). Multi-brand online gaming platform built through a CMS: every brand uses the same Angular components with its own styling.
 

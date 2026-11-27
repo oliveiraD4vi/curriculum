@@ -18,7 +18,7 @@ Brasil
 
 ## Perfil
 
-Desenvolvedor de software com foco em frontend e Angular. Mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Developer na Shuffle Up**, num time baseado na Estônia.
+Desenvolvedor de software com foco em frontend e Angular. Mantenho o **Inhamuns Crono**, plataforma de cronometragem esportiva que criei e que está em produção no Ceará. Até novembro de 2026 fui **Frontend Engineer na Shuffle Up**, num time baseado na Estônia.
 
 Trabalho com desenvolvimento web desde 2021, com experiência em frontend (Angular, React e Vue), backend (Node, NestJS e Java) e integrações. Sou bacharel em Sistemas de Informação pela Universidade Federal do Ceará - _Campus_ Quixadá.
 
@@ -28,7 +28,7 @@ Veja meu [**portfólio**](https://coaladev.com.br), meus projetos no [**GitHub**
 
 ## Experiência profissional
 
-### Dez 2024 - Nov 2026 | Frontend Developer (L4) na Shuffle Up
+### Dez 2024 - Nov 2026 | Frontend Engineer (L4) na Shuffle Up
 
 Tempo integral, remoto (Tallinn, Estônia). Plataforma de jogos online multimarca montada por CMS: cada marca usa os mesmos componentes Angular com estilo próprio.
 
